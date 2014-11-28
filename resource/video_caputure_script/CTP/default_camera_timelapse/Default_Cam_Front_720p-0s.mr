@@ -1,0 +1,17 @@
+TOUCH|{'x':49,'y':1128,'type':'downAndUp',}
+WAIT|{'seconds':2.0,}
+TOUCH|{'x':202,'y':1114,'type':'downAndUp',}
+WAIT|{'seconds':2.0,}
+TOUCH|{'x':659,'y':909,'type':'downAndUp',}
+WAIT|{'seconds':2.0,}
+TOUCH|{'x':54,'y':906,'type':'downAndUp',}
+WAIT|{'seconds':2.0,}
+TOUCH|{'x':139,'y':917,'type':'downAndUp',}
+WAIT|{'seconds':2.0,}
+TOUCH|{'x':369,'y':706,'type':'downAndUp',}
+WAIT|{'seconds':2.0,}
+TOUCH|{'x':357,'y':1120,'type':'downAndUp',}
+WAIT|{'seconds':5.0,}
+TOUCH|{'x':357,'y':1120,'type':'downAndUp',}
+WAIT|{'seconds':3.0,}
+TOUCH|{'x':659,'y':909,'type':'downAndUp',}

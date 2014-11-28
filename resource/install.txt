@@ -1,0 +1,5 @@
+install lxml:
+1. yum install python-devel
+2. yum install libxml2-devel
+3. yum install libxslt-devel
+4. python setup.py install
